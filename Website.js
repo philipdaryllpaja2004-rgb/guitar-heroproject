@@ -1,37 +1,37 @@
 const product = [
     {
         id: 0,
-        image: 'main/Pacifica.jpg',
+        image: './Pacifica.jpg',
         title: 'Yamaha Pacifica 612VIIFMX',
         price: 699,
     },
     {
         id: 1,
-        image: 'main/PRSSE.jpg',
+        image: './PRSSE.jpg',
         title: 'PRS SE Pauls Guitar',
         price: 799,
     },
     {
         id: 2,
-        image: 'main/Gibson.jpg',
+        image: './Gibson.jpg',
         title: 'Gibson Les Paul Custom EB GH',
         price: 1999,
     },
     {
         id: 3,
-        image: 'main/Stratocaster.jpg',
+        image: './Stratocaster.jpg',
         title: 'Fender Limited Edition Player Stratocaster',
         price: 1499,
     },
     {
         id: 4,
-        image: 'main/Telecaster.jpg',
+        image: './Telecaster.jpg',
         title: 'Fender American Original 50s Telecaster',
         price: 1199,
     },
     {
         id: 5,
-        image: 'main/Revstar.jpg',
+        image: './Revstar.jpg',
         title: 'Yamaha Revstar RSE20 Red Copper',
         price: 999,
     },
@@ -92,4 +92,5 @@ function displaycart(a){
     }
 
 }
+
 
